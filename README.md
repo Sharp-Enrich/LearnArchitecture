@@ -6,7 +6,6 @@
 
 <a href="https://learnarchitecture.readthedocs.io/zh_CN/latest/?version=latest" target="_blank">
 ![在线阅读](https://readthedocs.org/projects/learnarchitecture/badge/?version=latest)
-在线阅读
 </a>
 
 
