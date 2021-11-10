@@ -1,0 +1,19 @@
+site_name: 菜鸟学架构
+repo_url: https://github.com/Sharp-Enrich/LearnArchitecture
+edit_uri: edit/master/notes/
+site_description: 菜鸟学架构
+site_author: Tacey Wong
+copyright: ©2021 Tacey Wong
+docs_dir: docs
+nav:
+  - 主页: index.md
+  
+theme:
+  name: material
+  language: zh
+  
+# https://github.com/zhaoterryy/mkdocs-pdf-export-plugin
+# pip install mkdocs-pdf-export-plugin
+# plugins:
+#     - pdf-export:
+#         combined: true%           
